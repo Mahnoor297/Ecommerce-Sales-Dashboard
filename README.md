@@ -29,7 +29,7 @@ This project presents an interactive sales dashboard built using **SQL** and **E
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard.PNG)
 
 ---
 
